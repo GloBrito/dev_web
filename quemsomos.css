@@ -1,0 +1,16 @@
+.navbar_qs{
+    margin-left: 450px;
+    margin-right: auto;
+    flex-direction: column;
+    }
+
+.text_qs{
+    width: 868px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

@@ -40,7 +40,7 @@ body{
     flex-direction: column;
 }
 
-h1{
+h1 h2{
     font-family: 'Barlow', sans-serif;
     font-family: 'Inter', sans-serif;
 }
